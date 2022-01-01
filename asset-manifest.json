@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/new-year-greeting/static/css/main.5b1ea4bf.chunk.css",
+    "main.js": "/new-year-greeting/static/js/main.1fc467aa.chunk.js",
+    "main.js.map": "/new-year-greeting/static/js/main.1fc467aa.chunk.js.map",
+    "runtime-main.js": "/new-year-greeting/static/js/runtime-main.31cac2a6.js",
+    "runtime-main.js.map": "/new-year-greeting/static/js/runtime-main.31cac2a6.js.map",
+    "static/js/2.777c0d3d.chunk.js": "/new-year-greeting/static/js/2.777c0d3d.chunk.js",
+    "static/js/2.777c0d3d.chunk.js.map": "/new-year-greeting/static/js/2.777c0d3d.chunk.js.map",
+    "index.html": "/new-year-greeting/index.html",
+    "static/css/main.5b1ea4bf.chunk.css.map": "/new-year-greeting/static/css/main.5b1ea4bf.chunk.css.map",
+    "static/js/2.777c0d3d.chunk.js.LICENSE.txt": "/new-year-greeting/static/js/2.777c0d3d.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/new-year-greeting/static/media/tigerBackground.ecc42065.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31cac2a6.js",
+    "static/js/2.777c0d3d.chunk.js",
+    "static/css/main.5b1ea4bf.chunk.css",
+    "static/js/main.1fc467aa.chunk.js"
+  ]
+}
